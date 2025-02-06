@@ -31,7 +31,7 @@
 ---
 ---
 ### Resoult:
-Access the main file to check the code [here.](https://github.com/guilhptg/EmissaoNotasFiscais/blob/main/auto_issue_invoices.ipynb)
+Access the main file to check the code [here.](https://github.com/guilhptg/JusSearch/blob/main/pesquisa_juridica.ipynb)
 
 
 ---
